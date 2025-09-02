@@ -1,3 +1,15 @@
+---
+title: Astrophysics and Cosmology
+summary: Handnotes for bachelor students. WARNING underconstruction!
+date: 2025-09-02
+type: docs
+math: false
+tags:
+  - Astronomy
+  - Astrophysics
+  - Cosmology
+---
+
 # 1. Introduction to Astrophysics and Cosmology
 
 ## 1.1. What it is Astrophysics?
