@@ -16,7 +16,7 @@ sections:
       title: Astrophysics and Cosmology
       filters:
         folders:
-          - AaC
+          - teaching/AaC
     design:
       view: article-grid
       columns: 3
