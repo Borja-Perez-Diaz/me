@@ -11,13 +11,13 @@ cascade:
 
 sections:
   - block: collection
-    id: teaching
+    id: Astrophysics_Cosmology
     content:
-      title: Teaching
+      title: Astrophysics and Cosmology
       filters:
         folders:
-          - teaching
+          - AaC
     design:
       view: article-grid
-      columns: 2
+      columns: 3
 ---
