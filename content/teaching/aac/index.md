@@ -22,14 +22,14 @@ The following handnotes were originally taken in 2013/14 from Prof. Lysiane Morn
 
 # INDEX
 
-* Part I: The Observable in Astrophysics
+* Part I. The Observable in Astrophysics
 
   * 1. Introduction to astrophysics and cosmology
   * 2. General properties of stars
   * 3. Zoology of astrophysical objects
   * 4. Emission, absorption and detection of the radiaton
 
-* Part II: The Physics of Stars
+* Part II. The Physics of Stars
 
   * 5. Structure equations
   * 6. Properties of the stellar matter
@@ -38,18 +38,18 @@ The following handnotes were originally taken in 2013/14 from Prof. Lysiane Morn
   * 9. Binary systems with mass transfer
   * 10. Astrosysmology and variable stars
 
-* Part III: Galaxies and Active Galactic Nuclei
+* Part III. Galaxies and Active Galactic Nuclei
 
   * 11. Galaxies in the Universe
   * 12. Active Galactic Nuclei and other energetic sources
 
-* Part IV: Large Scale Structure and Cosmology
+* Part IV. Large Scale Structure and Cosmology
 
   * 13. Large Scale Structure
   * 14. Statistics of galaxy distributions
   * 15. Friedman models
 
-* Part V: Appendix
+* Part V. Appendix
 
   * A. Measurements of distances
   * B. Thermal History of the Universe

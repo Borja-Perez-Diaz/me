@@ -1,5 +1,5 @@
 ---
-title: Part I: The Observable in Astrophysics
+title: Part I. The Observable in Astrophysics
 summary: Handnotes for bachelor students about Astrophysics and Cosmology. 
 date: 2025-09-02
 type: docs
