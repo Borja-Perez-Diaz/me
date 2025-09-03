@@ -22,7 +22,7 @@ The following handnotes were originally taken in 2013/14 from Prof. Lysiane Morn
 
 **INDEX**
 
-* [Part I. The Observable in Astrophysics]({{< relref "teaching/aac/parti" >}})
+* [Part I. The Observable in Astrophysics](./parti)
 
   * 1. Introduction to astrophysics and cosmology
   * 2. General properties of stars

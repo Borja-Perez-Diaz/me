@@ -12,7 +12,7 @@ tags:
 
 **INDEX**
 
-* 1. [Introduction to astrophysics and cosmology](./1_what_is_astrophysics/)
+* 1. [Introduction to astrophysics and cosmology](/1_what_is_astrophysics/)
 
     * 1.1. What is Astrophysics? 
     * 1.2. A brief historical summary
