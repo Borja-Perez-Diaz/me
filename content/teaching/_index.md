@@ -13,10 +13,10 @@ sections:
   - block: collection
     id: Astrophysics_Cosmology
     content:
-      title: Astrophysics and Cosmology
+      title: Handnotes for Academic Purposes
       filters:
         folders:
-          - aac
+          - teaching
     design:
       view: article-grid
       columns: 3
