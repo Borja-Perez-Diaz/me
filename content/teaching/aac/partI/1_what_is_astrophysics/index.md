@@ -1,16 +1,14 @@
 ---
-title: I. The observable in astrophysics. 1. Introduction to astrophysics and cosmology
+title: 1. Introduction to astrophysics and cosmology
 summary: Handnotes for bachelor students. WARNING underconstruction!
 date: 2025-09-02
 type: docs
-math: false
+math: True
 tags:
   - Astronomy
   - Astrophysics
   - Cosmology
 ---
-
-# 1. Introduction to Astrophysics and Cosmology
 
 ## 1.1. What it is Astrophysics?
 
