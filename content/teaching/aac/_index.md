@@ -8,6 +8,8 @@ tags:
   - Astronomy
   - Astrophysics
   - Cosmology
+image:
+  caption: 'JWST NIRCam view of planetary nebula NGC 6072. Credits: ESA, NASA, CSA, STScI.'
 ---
 
 # 1. Introduction to Astrophysics and Cosmology
