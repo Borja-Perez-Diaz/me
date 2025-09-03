@@ -3,7 +3,7 @@ title: Astrophysics and Cosmology
 summary: Handnotes for bachelor students. WARNING underconstruction!
 date: 2025-09-02
 type: docs
-math: false
+math: true
 tags:
   - Astronomy
   - Astrophysics
