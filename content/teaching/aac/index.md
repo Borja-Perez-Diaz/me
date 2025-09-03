@@ -22,7 +22,7 @@ The following handnotes were originally taken in 2013/14 from Prof. Lysiane Morn
 
 # INDEX
 
-* [Part I. The Observable in Astrophysics](https://borja-perez-diaz.github.io/me/teaching/aac/part_i/)
+* [Part I. The Observable in Astrophysics](https://borja-perez-diaz.github.io/me/teaching/aac/part_i/index.md)
 
   * 1. Introduction to astrophysics and cosmology
   * 2. General properties of stars

@@ -19,5 +19,5 @@ sections:
           - teaching
     design:
       view: article-grid
-      columns: 3I Delegazi Agenzia pratiche auto
+      columns: 3
 ---
