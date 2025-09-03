@@ -20,7 +20,7 @@ Uncompleted Handnotes: the following handnotes are being completed in a slow but
 The following handnotes were originally taken in 2013/14 from Prof. Lysiane Mornas and Prof. Luigi Toffolatti. The writter (Dr. Borja Pérez-Díaz) takes fully responsability on the content provided, scientific rigor and updated references.
 {{% /callout %}}
 
-# INDEX
+**INDEX**
 
 * [Part I. The Observable in Astrophysics](teaching/aac/parti/)
 
