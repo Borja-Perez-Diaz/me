@@ -3,7 +3,7 @@ title: 1. Introduction to astrophysics and cosmology
 summary: Handnotes for bachelor students. WARNING underconstruction!
 date: 2025-09-02
 type: docs
-math: True
+math: true
 tags:
   - Astronomy
   - Astrophysics

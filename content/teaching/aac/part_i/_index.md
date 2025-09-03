@@ -12,7 +12,7 @@ tags:
 
 # INDEX
 
-* 1. Introduction to astrophysics and cosmology
+* 1. [Introduction to astrophysics and cosmology](https://borja-perez-diaz.github.io/me/teaching/aac/part_i/1_what_is_astrophysics/)
 
     * 1.1. What is Astrophysics? 
     * 1.2. A brief historical summary
