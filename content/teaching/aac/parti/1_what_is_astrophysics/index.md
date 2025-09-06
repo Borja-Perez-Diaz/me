@@ -24,7 +24,7 @@ These three categories may be defined as follows:
 
 Of course, once these cateogires have been defined, the reader might disagree with the definitions, the number of categories, or even the use of categories. Indeed, nowadays these categories are completely intertwined. Astronomy comes first as it is the oldest one, but then cosmology is the big jump that came in the mid 1900s. But it is imposible to not apply physics to understand everything that is being observed in the sky. Thus, we can certainly use "astrophysics" in its wide and general definition.
 
-A very important aspect in this field of science is that it is extremely hard (although not impossible [reference to dust lab at the IAA]) to perform experiments, as most of the physical conditions are (nowadays) unacheivable on Earth laboratories. Hence, astrophysics is focused on observations and data analysis. Observations mainly come from photons, but in the recent years there has been clear advances towards multi-messenger astronomy by neutrinos ([reference here]) and gravitational waves ([reference here]). 
+A very important aspect in this field of science is that it is extremely hard (although not impossible [Cosmic Dust Laboratory](https://scattering.iaa.es/en/contact)) to perform experiments, as most of the physical conditions are (nowadays) unacheivable on Earth laboratories. Hence, astrophysics is focused on observations and data analysis. Observations mainly come from photons, but in the recent years there has been clear advances towards multi-messenger astronomy by neutrinos (e.g. Aartsen et al. [2013](https://ui.adsabs.harvard.edu/abs/2013Sci...342E...1I/abstract), [2014](https://ui.adsabs.harvard.edu/abs/2014PhRvL.113j1101A/abstract), [2017](https://ui.adsabs.harvard.edu/abs/2017JInst..12P3012A/abstract)) and gravitational waves (e.g. Abbott et al. [2017](https://ui.adsabs.harvard.edu/abs/2017PhRvL.119p1101A/abstract), [2019](https://ui.adsabs.harvard.edu/abs/2019PhRvX...9c1040A/abstract)). 
 
 Nonetheless, astrophysics also offers a unique framework to test most of the different branches from physics: mechanics, electromagnetism, magneto-hydrodynamics, thermodynamics, statistical physics, special and general relativity, atomic and molecular physics, ... Hence, it is necessary to understand the different temperature-, length- and timescales that are involved, and at which extent the different quantum and/or relativistic effects take place. In return, we have en excellent benchmark to test recent theories such as:
 
@@ -102,9 +102,48 @@ As it has been already mentioned, astrophysics is both one of the oldest and new
     
     In the realm of our models and theories for understanding the Universe, this epoch has been characterized by the enigmas, and the remaining open questions. The Hubble Constant has been a matter of discussion, as different techniques provides different measurements, leading to the so-called "Hubble Tension" (e.g. [Di Valentino et al. 2021](https://ui.adsabs.harvard.edu/abs/2021CQGra..38o3001D/abstract), [Efstathiou 2021](https://ui.adsabs.harvard.edu/abs/2021MNRAS.505.3866E/abstract), [Hu et al. 2024](https://ui.adsabs.harvard.edu/abs/2024ApJ...975L..36H/abstract), [Verde, Schnöneberg & Gil-Marín 2024](https://ui.adsabs.harvard.edu/abs/2024ARA%26A..62..287V/abstract)). The amplitude of the matter fluctuations has also been under debate (e.g. [Planck Collaboration et al. 2020](https://ui.adsabs.harvard.edu/abs/2020A%26A...641A...6P/abstract), [Adil et al. 2024](https://ui.adsabs.harvard.edu/abs/2024MNRAS.528L..20A/abstract)). Our understanding of galaxy formation, from Dark Matter halos following a hierarchal growth and capturing pristine gas (e.g. [Cole et al. 2000](https://ui.adsabs.harvard.edu/abs/2000MNRAS.319..168C/abstract), [Springel et al. 2018](https://ui.adsabs.harvard.edu/abs/2018MNRAS.475..676S/abstract), [Martizzi et al. 2019](https://ui.adsabs.harvard.edu/abs/2019MNRAS.486.3766M/abstract)), has some problemas such as the "Missing Satellite Problem" (e.g. [Nashimoto et al. 2022](https://ui.adsabs.harvard.edu/abs/2022ApJ...936...38N/abstract)) or the "Too-Big-To-Fail Problem" (e.g. [Ogiya & Burkert 2015](https://ui.adsabs.harvard.edu/abs/2015MNRAS.446.2363O/abstract)). Overall, both our comoslogical model and theory for galaxy formation have several caveats and problems that suggest further research (e.g. [Bullock & Boylan-Kolchin 2017](https://ui.adsabs.harvard.edu/abs/2017ARA%26A..55..343B/abstract), [Efstathiou 2025](https://ui.adsabs.harvard.edu/abs/2025RSPTA.38340022E/abstract)).
     
-
-
+    Lastly, it is important to mention that this new epoch is characterized also by a multimessenger approach: not only we can observe (and retrieve information), from photons, but also from other sources. Neutrinos were proposed several decades ago as a new window of observations ([Greisen 1960](https://ui.adsabs.harvard.edu/abs/1960ARNPS..10...63G/abstract)), but they have become a clear reality thanks to the IceCube Neutrino Observatory (Aartsen et al. [2013](https://ui.adsabs.harvard.edu/abs/2013Sci...342E...1I/abstract), [2014](https://ui.adsabs.harvard.edu/abs/2014PhRvL.113j1101A/abstract), [2017](https://ui.adsabs.harvard.edu/abs/2017JInst..12P3012A/abstract)). In a similar fashion, cosmic rays (less specific than neutrinos), have also been proposed as a window for observations (e.g. [Sommers & Westerhoff 2009](https://ui.adsabs.harvard.edu/abs/2009NJPh...11e5004S/abstract)), which is now being exploited with observatories such as the Pierre Auger Observatory ([Abraham et al. 2004](https://ui.adsabs.harvard.edu/abs/2004NIMPA.523...50A/abstract), [Pierre Auger Collaboration 2015](https://ui.adsabs.harvard.edu/abs/2015NIMPA.798..172P/abstract)). $\gamma$-rays, the most energetic form of electromagnetic radiation, have been also used to observe the Universe with facilities such as the Cherenkov Telescope Array (CTA, [Actis et al. 2011](https://ui.adsabs.harvard.edu/abs/2011ExA....32..193A/abstract)) or the Fermi Gamma-ray Space Telescope (Fermi, Ackermann et al. [2015](https://ui.adsabs.harvard.edu/abs/2015ApJ...799...86A/abstract), [2016](https://ui.adsabs.harvard.edu/abs/2016PhRvL.116o1105A/abstract)). Gravitational waves, already predicted in the late 1910s as a natural outcome from General Relativity (Einstein [1916](https://ui.adsabs.harvard.edu/abs/1916SPAW.......688E/abstract), [1918](https://ui.adsabs.harvard.edu/abs/1918SPAW.......154E/abstract), [Eddington 1922](https://ui.adsabs.harvard.edu/abs/1922RSPSA.102..268E/abstract)), were finally detected in the 2010 decade thanks to the Laser Interferometer Gravitational-Wave Observatory (LIGO) and the Virgo-inferferometer (Virgo) in 2016 ([Abbott et al. 2016](https://ui.adsabs.harvard.edu/abs/2016PhRvL.116f1102A/abstract)), with more detections in the next years (e.g. Abbott et al. [2017](https://ui.adsabs.harvard.edu/abs/2017PhRvL.119p1101A/abstract), [2019](https://ui.adsabs.harvard.edu/abs/2019PhRvX...9c1040A/abstract)).
     
+While neither complete nor exhaustive, this schematic overview gives us a clear idea on both the importance of astronomy in human history and the development that has been experienced over the last centuries.
+    
+## 1.3. Orders of magnitude
+
+Astrophysics are described with several (if not all) measurement scales due to the large variety of physical processes involved. This is highlighted in the different units used across the field. However, before addressing such variety of units, it is important to review two fundamental parts: the main units used and the physical constants involved.
+
+As we are thaught at schools, when dealing with science the metric system that we **should** be using is the International System (SI, [learn more](https://www.nist.gov/pml/owm/metric-si/si-units)). These units are not arbritary, but rather taken from Universal constants. The problem: in astrophysics we do not generally used such units, but rather the centimeter-gram-second (CGS) system of units (or a mixture between CGS and SI). Thus, a comparative table of the fundamental units should always be at hand (such as the Table 1.1).
+
+**Table 1.1**. Basic physical properties and their corresponding units depending on the system.
+
+| **Base property** | **Property symbol** | **SI unit**   |    **CGS unit** | **Conversion factor** |
+| :---------------- | :------------------ | :----------   | :-------------- | --------------------: |
+| Time              |                   t |  second (s)   |      second (s) |                     - |
+| Length            |                 l,r |   meter (m)   | centimeter (cm) |        10$^2$cm = 1m |
+| Mass              |                 m,M | kilogram (kg) |        gram (g) |        10$^3$g = 1kg |
+| Electric current  |                 i,I |    ampere (A) | statampere (statA) |   2.9979245$\cdot 10^7$statA = 1A |
+| Temperature       |                   T |    kelvin (K) |       kelvin (K) |                    - |
+| Amount of substance |                 n |    mole (mol) |       mole (mol) |                    - |
+| Luminous intesity   |                I$_{\nu}$ | candela (cd) |          - |                    - |
+
+
+
+The choice of a unit systm has deeper problems rather than the need to convert the final number: the change of equations. For instance, in natural units (h = c = 1), most of the equations do not account for those terms as they are set to 1, hence the conversion is more tricky. With that in mind, we can take a look at how important physical (see [Mohr et al. 2025](https://ui.adsabs.harvard.edu/abs/2025RvMP...97b5002M/abstract) for a [full version](https://physics.nist.gov/cuu/pdf/all.pdf) of all them) constants change:
+
+
+**Table 1.2**. Most used physical constants and their change due to the unit system.
+
+| **Physical constant** | **Symbol** | **SI value** | **CGS value** |
+| :-------------------- | :--------- | -----------: | ------------: |
+| Planck constant | h | $6.62607015\cdot 10^{-34}$ J$\cdot$s | $6.62607015\cdot 10^{-27}$ erg$\cdot$s |
+| Speed of light | c | $2.99792458\cdot 10^{8}$ m$\cdot$s$^{-1}$ | $2.99792458\cdot 10^{10}$ cm$\cdot$s$^{-1}$ |
+| Vacuum magnetic permeability | $\mu_{0}$ | $1.25663706212\cdot 10^{-6}$ N$\cdot$A$^{-2}$ | $1.25663706212\cdot 10^{-15}$ dyn$\cdot$statA$^{-2}$ |
+| Elementary charge | e | $1.602176634\cdot 10^{-19}$ C | $1.602176634\cdot 10^{-12}$ statA$\cdot$s |
+| Fine-structure constant | $\alpha$ | $7.2973525693\cdot 10^{-3}$ | $7.2973525693\cdot 10^{-3}$ |
+| Rydberg Energy | h$\cdot$c$\cdot$R$_{\infty}$ | $2.179872361\cdot 10^{-18}$ J | $2.179872361\cdot 10^{-11}$ erg |
+| Electron mass | m$_{e}$ | $9.1093837015\cdot 10^{-31}$ kg | $9.1093837015\cdot 10^{-31}$ g |
+| Boltzmann Constant | k | $1.380649\cdot 10^{-23}$ J$\cdot$K$^{-1}$ | $1.380649\cdot 10^{-16}$ erg$\cdot$K$^{-1}$ |
+| Gravitational constant | G | $6.6743\cdot 10^{-11}$ m$^{3}\cdot$kg$^{-1}\cdot$s^{-2}$ | $6.6743\cdot 10^{-8}$ cm$^{3}\cdot$g$^{-1}\cdot$s^{-2}$ |
+
+
     
 [^1]: The Ancient Greek philosopher from Miletus in Ionia, Asia Minor (626/623 - 548/545 BC).
 [^2]: The Ancient Greek philosopher (570 - 495 BC).
