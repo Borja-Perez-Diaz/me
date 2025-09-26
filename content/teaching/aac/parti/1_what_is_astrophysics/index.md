@@ -113,7 +113,7 @@ Astrophysics are described with several (if not all) measurement scales due to t
 As we are thaught at schools, when dealing with science the metric system that we **should** be using is the International System (SI, [learn more](https://www.nist.gov/pml/owm/metric-si/si-units)). These units are not arbritary, but rather taken from Universal constants. The problem: in astrophysics we do not generally used such units, but rather the centimeter-gram-second (CGS) system of units (or a mixture between CGS and SI). Thus, a comparative table of the fundamental units should always be at hand (such as the [Table 1.1](#Tab1.1)).
 
 <a name="Tab1.1">
-   **Table 1.1**. Basic physical properties and their corresponding units depending on the system.
+   Table 1.1. Basic physical properties and their corresponding units depending on the system.
 </a>
 
 | **Base property** | **Property symbol** | **SI unit**   |    **CGS unit** | **Conversion factor** |
@@ -129,7 +129,7 @@ As we are thaught at schools, when dealing with science the metric system that w
 The choice of a unit systm has deeper problems rather than the need to convert the final number: the change of equations. For instance, in natural units (h = c = 1), most of the equations do not account for those terms as they are set to 1, hence the conversion is more tricky. With that in mind, we can take a look at how important physical (see [Mohr et al. 2025](https://ui.adsabs.harvard.edu/abs/2025RvMP...97b5002M/abstract) for a [full version](https://physics.nist.gov/cuu/pdf/all.pdf) of all them) constants change:
 
 <a name="Tab1.2">
-   **Table 1.2**. Most used physical constants and their change due to the unit system.
+   Table 1.2. Most used physical constants and their change due to the unit system.
 </a>
 
 | **Physical constant** | **Symbol** | **SI value** | **CGS value** |
@@ -147,16 +147,15 @@ The choice of a unit systm has deeper problems rather than the need to convert t
 In order to get an idea of the variety of orders of magnitude involved, let us analyze with practical examples. We show in Table 1.3 examples of those orders:
 
 <a name="Tab1.3">
-   **Table 1.3**. Orders of magnitude involved in astrophysics in different physical properties.
+   Table 1.3. Orders of magnitude involved in astrophysics in different physical properties.
 </a>
 
 |               | **LENGTH** | | |
 | :--------------------- | --------: | -----------: | ------------: |
 | **Example** | **Value** | **SI value** | **Reference** |
-| :-------------------- | ---------: | -----------: | ------------: |
 | Proton radius | $\sim$0.87 fm | $\sim 8.7\cdot 10^{-16}$ m | [Guth (1987)](https://ui.adsabs.harvard.edu/abs/1997iuqn.conf.....G/abstract); [Brandenberger (2021)](https://ui.adsabs.harvard.edu/abs/2021LHEP....4..198B/abstract) |
 | Optical wavelength | $\sim$500 nm | $\sim 5\cdot 10^{-7}$ m | [Bessell (2004)](https://ui.adsabs.harvard.edu/abs/2005ARA%26A..43..293B/abstract) |
-| Ground-based telescope mirror | $\lessim 39$ m | $\lessim 39$ m | [Extremely Large Telescope](https://elt.eso.org/mirror/M1/) |
+| Ground-based telescope mirror | $\lesssim 39$ m | $\lesssim 39$ m | [Extremely Large Telescope](https://elt.eso.org/mirror/M1/) |
 | Neutron star radii | $\sim 10$ km | $\sim 10^{4}$ m | [Abbott et al. (2018)](https://ui.adsabs.harvard.edu/abs/2018PhRvL.121p1101A/abstract) |
 | Distance to the closest star | 1.295 pc | $3.9965\cdot 10^{16}$ m | [van Leeuwen (2007)](https://ui.adsabs.harvard.edu/abs/2007A%26A...474..653V/abstract) |
 | Galaxy radii | $\sim 10$ kpc | $\sim 3.0857\cdot 10^{20}$ m | [Sparke & Gallagher (2007)](https://ui.adsabs.harvard.edu/abs/2007gaun.book.....S/abstract) |
@@ -167,7 +166,6 @@ In order to get an idea of the variety of orders of magnitude involved, let us a
 |               | **TIME** | | |
 | :--------------------- | --------: | -----------: | ------------: |
 | **Example** | **Value** | **SI value** | **Reference** |
-| :-------------------- | ---------: | -----------: | ------------: |
 | Cosmic inflation duration | $\sim 10^{-36}$ s | $\sim 10^{-36}$ s  | [Bernauer et al. (2010)](https://ui.adsabs.harvard.edu/abs/2010PhRvL.105x2001B/abstract); [Karr et al. (2020)](https://ui.adsabs.harvard.edu/abs/2020NatRP...2..601K/abstract) |
 | Core-collapse Supernovae explosition | $\lesssim 0.3$ s | $\lesssim 0.3$ s | [Saito et al. (2022)](https://ui.adsabs.harvard.edu/abs/2022ApJ...931..153S/abstract) |
 | Neutron-decay timescale | $\sim 880$ s | $\sim 880$ s | [Planck Collaboration et al. (2018)](https://ui.adsabs.harvard.edu/abs/2020A%26A...641A...6P/abstract) |
@@ -179,7 +177,6 @@ In order to get an idea of the variety of orders of magnitude involved, let us a
 |               | **MASS** | | |
 | :--------------------- | --------: | -----------: | ------------: |
 | **Example** | **Value** | **SI value** | **Reference** |
-| :-------------------- | ---------: | -----------: | ------------: |
 | Oxygen atom | 15.999 m$_{u}$ | $2.6567\cdot 10^{-26}$ kg | [Wieser & Coplin (2011)](https://doi.org/10.1351/PAC-REP-10-09-14) |
 | Halley's comet mass | $\sim 2.2\cdot 10^{17}$ g | $\sim 2.2\cdot 10^{14}$ kg | [Hughes (1985)](https://ui.adsabs.harvard.edu/abs/1985MNRAS.213..103H/abstract) |
 | Earth's mass | $\sim 5.972 \cdot 10^{27}$ g | $\sim 5.972 \cdot 10^{24}$ kg | [Folkner & Williams (2008)](https://ssd.jpl.nasa.gov/planets/phys_par.html) |
@@ -191,7 +188,6 @@ In order to get an idea of the variety of orders of magnitude involved, let us a
 |               | **TEMPERATURE** | | |
 | :--------------------- | --------: | -----------: | ------------: |
 | **Example** | **Value** | **SI value** | **Reference** |
-| :-------------------- | ---------: | -----------: | ------------: |
 | Cosmic Microwave Background temperature | $\sim 2.755$ K | $\sim 2.755$ K | [Muller et al. (2013)](https://ui.adsabs.harvard.edu/abs/2013A%26A...551A.109M/abstract) |
 | Atomic gas temperature | $\sim 100$ K | $\sim 100$ K | [Dutta et al. (2019)](https://ui.adsabs.harvard.edu/abs/2019MNRAS.489.1099D/abstract) |
 | Sun surface temperature | T$_{sup,\odot }$ | $\sim 5772$ K | [Prsa et al. (2016)](https://ui.adsabs.harvard.edu/abs/2016AJ....152...41P/abstract) |
@@ -208,7 +204,7 @@ However, not all the scenarios explored in astrophysics can be addressed with su
 
 Whereas we have reviewed a great number of exemptions in which the accuracy of the measurements are critical for the reliability of the results, let us focus on a particular case, *the Hubble tension*. The Hubble constant ($H_{0}$  [km/s/Mpc]) . Ironically, one can find another "tension" (or better said "controversy") when starting to address the issue of the determination of the Hubble constant (see note below). The Hubble constant has been measured through several ways, which are generally categorized by "early Universe" (if the measurement is related to the physics of the early Universe) or "late Universe" (if the measurement is related to physics in the local Universe). It is beyond the scope of this handnotes to further elaborate on the techniques (although we will address it in a future chapter), but the key message is that what initially was attributed to the uncertainty in the measurements, now it is clear that there is discrepancy among the results from the early and late Universe (see [Di Valentino et al. 2021](https://ui.adsabs.harvard.edu/abs/2021CQGra..38o3001D/abstract) for an excellent review). This is shown in Fig. 1 (taken from [Di Valentino et al. 2021](https://ui.adsabs.harvard.edu/abs/2021CQGra..38o3001D/abstract) review). In Fig. 1 (a) we observed that the median values of $H_{0}$ from "early Universe" techniques provide different values than the others. Particularly, if we focus on the two main techniques; the Planck estimation ([Planck Collaboration et al. 2020](https://ui.adsabs.harvard.edu/abs/2020A%26A...641A...6P/abstract)) and the SNe estimation from the SH0ES collaboration ([Riess et al. 2021](https://ui.adsabs.harvard.edu/abs/2021ApJ...908L...6R/abstract)), we can see that the difference is already 4 to 6$\sigma$ range, which implies that is real. Thus, improving the uncertainty in our estimations has been crucial in understanding the need to possibly explore new physical scenarios.
 
-![The Hubble tension.](Images/H0_tension.pdf)
+![The Hubble tension.](/content/teaching/aac/parti/1_what_is_astrophysics/Images/H0_tension.pdf "The Hubble Tension". Plots taken from Di Valentino et al. 2021.")
 
 {{% callout info %}}
 While these handnotes should not be addressing gossip, let us spare a few moments to explain "the Hubble controversy". If someone is asked about who realized the first measurement of the Hubble constant, probably their first thoguht goes to the famous paper published by [Hubble (1929)](https://ui.adsabs.harvard.edu/abs/1929PNAS...15..168H/abstract), where Fig. 1 showed the relation between distance and radial velocity. He obtained that the proportional constant between distance and velocity was $K \sim 465 \pm 50$ km/s/Mpc (notice that at the time was called $K$). However, the idea was explored, from a theoretical perspective but constrained with observations, by [Lemaitre (1927)](https://ui.adsabs.harvard.edu/abs/1927ASSB...47...49L/abstract), who predicted from Einstein's equations that there should be a radial component of the velocity of nebulae (what we call now galaxies) due to the expansion of the space-time, and in the local regime it can approximated by a proporcional constant $R \sim 625$ km/s/Mpc (for those readers with French knowledge, it is worthwhile to read the manuscript). At this point, of course, there is no controversy at all: Lemaitre beat Hubble. The observational data used by Lemaitre came from [Lundmark (1924)](https://ui.adsabs.harvard.edu/abs/1924MNRAS..84..747L/abstract). The problem is that Lundmark also tried to fit a relation between the distance and the radial velocity in a different manuscript ([Lundmark 1925](https://ui.adsabs.harvard.edu/abs/1925MNRAS..85..865L/abstract)), but with a different approach. While Lundmark properly introduced a correction for the Sun's motion, he explored that the correction to nebula velocities due to distance was a polynomial expression with degree 2 (actually he explored all possible fits with polynomial functions with a degree less or equal to 2). In summary, Lundmark provided in his [1925](https://ui.adsabs.harvard.edu/abs/1925MNRAS..85..865L/abstract) had tried to fit a proportional fit between radial velocity and distance, although never paid much attention to it. Additionally, it has been discussed that the measurements from Lundmark were wrong (e.g. [Shaviv 2011](https://ui.adsabs.harvard.edu/abs/2011arXiv1107.0442S/abstract)). Moving a little bit more into the past, Weyl ([1923](https://ui.adsabs.harvard.edu/abs/1922stm..book.....W/abstract)) also tried an attempt to determine what we call Hubble constant, but the data used was quite a guess. In summary, Hubble, Lemaitre, Lundmark or Weyl, it is up to you which one you want to choose.
