@@ -1,7 +1,7 @@
 ---
-title: 1. Introduction to astrophysics and cosmology
+title: 2. General properties of stars
 summary: Handnotes for bachelor students.
-date: 2025-09-26
+date: 2025-09-30
 type: docs
 math: true
 tags:
@@ -10,7 +10,20 @@ tags:
   - Cosmology
 ---
 
-## 1.1. What it is Astrophysics?
+## 2.1. Introduction
+
+We will devote this chapter to assess which properties allows us to characterize stars. Of course, each star (like each galaxy) is likely to be different from the rest of stars that we can observe, but that does not imply that we can categorized them based on some of the properties that they share. 
+
+## 2.2. Luminosity and magnitude
+
+### 2.1. The luminosity concept
+
+Luminosity is defined as the energy emitted (radiated) per unit of time, in this case, by a star. As such, luminosity ($L$) has units of energy per time [erg/s] ([J/s]). Electromagnetic waves are an excellent way of losing energy, as each emitted photon carries out the energy corresponding to their particular wavelength ($\lambda $). The main source of this energy are the thermonuclear reactions that occur in the central region of stars, which produces enough energy to avoid the gravitational collapse and to release more. However, there are several processes under which stars can loss energy:
+
+* **Photon emission**: This is, generally, the most common and efficient mechanism. Before reaching the surface of stars, those photons propagate inside the inner parts of stars (through several processes that we will review in a future chapter), being constantly absorbed and re-emitted. As a result (together with many other physical processes involved), stars emit photons 
+
+
+
 
 It is worthwhile to review the ethimology of the categories mainly studied in this field: "astronomy", "astrophysics" and "cosmology". The distinction between these three categories is by far arbitrary, although it shows partially the historical development of this branch of science.
 

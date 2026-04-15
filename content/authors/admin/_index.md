@@ -24,8 +24,8 @@ role: Astrophysicist
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: Instituto de Astrofísica de Andalucía
-    url: https://www.iaa.csic.es/
+  - name: Osservatorio Astronomico di Roma (INAF)
+    url: https://www.oa-roma.inaf.it/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
@@ -178,6 +178,13 @@ education:
       url: ../uploads/Apuntes_MEA.pdf
 
 work:
+- position: Assegnista di Ricerca
+  company_name: Osservatorio Astronomico di Roma (OAR-INAF)
+  company_url: ''
+  company_logo: ''
+  date_start: 2025-09-15
+  date_end: -
+  
 - position: Researcher in formation
   company_name: Instituto de Astrofísica de Andalucía (IAA-CSIC)
   company_url: ''
@@ -288,4 +295,4 @@ awards:
 
 ## About Me
 
-Hi! I am Borja, a PhD researcher in Astrophysics, currently employed at the Instituto de Astrofísica de Andalucía-CSIC (Spain). My reserach interests mainly focus on galaxy evolution, with particular emphasis on constraining chemical enrichment, both observationally and theoretically.
+Hi! I am Borja, a postdoc researcher in Astrophysics, currently employed at the Osservatorio Astronomico di Roma - Istituto Nazionale di Astrofisica (Italy). My reserach interests mainly focus on galaxy evolution, with particular emphasis on constraining chemical enrichment, both observationally and theoretically.

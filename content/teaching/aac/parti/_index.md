@@ -12,38 +12,40 @@ tags:
 
 **INDEX**
 
-* 1. [Introduction to astrophysics and cosmology](https://borja-perez-diaz.github.io/me/teaching/aac/parti/1_what_is_astrophysics/)
+* [1. Introduction to astrophysics and cosmology](https://borja-perez-diaz.github.io/me/teaching/aac/parti/1_what_is_astrophysics/)
 
     * [1.1. What is Astrophysics?](https://borja-perez-diaz.github.io/me/teaching/aac/parti/1_what_is_astrophysics/#11-what-it-is-astrophysics) 
     * [1.2. A brief historical summary](https://borja-perez-diaz.github.io/me/teaching/aac/parti/1_what_is_astrophysics/#12-a-brief-historical-summary)
     * [1.3. Orders of magnitude](https://borja-perez-diaz.github.io/me/teaching/aac/parti/1_what_is_astrophysics/#13-orders-of-magnitude)
-    * 1.4. Precision in the measurements
-    * 1.5. Recommended books and articles
+    * [1.4. Precision in the measurements](https://borja-perez-diaz.github.io/me/teaching/aac/parti/1_what_is_astrophysics/#14-precision-in-the-measurements)
+    * [1.5. Recommended books and articles](https://borja-perez-diaz.github.io/me/teaching/aac/parti/1_what_is_astrophysics/#15-recommended-books-and-articles)
 
-* 2. General properties of stars
+* [2. General properties of stars](https://borja-perez-diaz.github.io/me/teaching/aac/parti/2_general_properties_stars/)
 
-    * 2.1. Luminosity and magnitude
-        * 2.1.1. Introduction to luminosity
-        * 2.1.2. Absolute and apparent luminosity
-        * 2.1.3. Luminosity magnitude
-    * 2.2. Color
-        * 2.2.1. Filters
-        * 2.2.2. Color index
-    * 2.3. Temperature and spectral types
-        * 2.3.1. Blackbody radiation
-        * 2.3.2. Effective temperature
-        * 2.3.3. Wien's displacement law
-        * 2.3.4. Absorption lines and chemical abundances
-        * 2.3.5. Spectral classification
-    * 2.4. Distance determination
-    * 2.5. Mass, radius, metallicity, age and magnetic field
-        * 2.5.1. Mass
-        * 2.5.2. Radius
-        * 2.5.3. Metallicity
-        * 2.5.4. Age, rotation, stellar wind and magnetic field
-    * 2.6. Hertzsprung-Russell (H-R) diagram
-        * 2.6.1. Introduction to the H-R diagram
-        * 2.6.2. Relations in the Mean Sequence
+    * 2.1. Introduction
+    * 2.2. Luminosity and magnitude
+        * 2.2.1. The luminosity concept
+        * 2.2.2. Absolute and apparent luminosity
+        * 2.2.3. Luminosity magnitude
+    * 2.3. Color
+        * 2.3.1. Filters
+        * 2.3.2. Color index
+    * 2.4. Temperature and spectral types
+        * 2.4.1. Blackbody radiation
+        * 2.4.2. Effective temperature
+        * 2.4.3. Wien's displacement law
+        * 2.4.4. Absorption lines and chemical abundances
+        * 2.4.5. Spectral classification
+    * 2.5. Distance determination
+    * 2.6. Mass, radius, metallicity, age and magnetic field
+        * 2.6.1. Mass
+        * 2.6.2. Radius
+        * 2.6.3. Metallicity
+        * 2.6.4. Age, rotation, stellar wind and magnetic field
+    * 2.7. Hertzsprung-Russell (H-R) diagram
+        * 2.7.1. Introduction to the H-R diagram
+        * 2.7.2. Relations in the Mean Sequence
+    * 2.8. Recommended books and articles
 
 * 3. Zoology of astrophysical objects
 

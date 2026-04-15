@@ -24,8 +24,8 @@ The following handnotes were originally taken in 2013/14 from Prof. Lysiane Morn
 
 * [Part I. The Observable in Astrophysics](https://borja-perez-diaz.github.io/me/teaching/aac/parti/)
 
-  * 1. Introduction to astrophysics and cosmology
-  * 2. General properties of stars
+  * [1. Introduction to astrophysics and cosmology](https://borja-perez-diaz.github.io/me/teaching/aac/parti/1_what_is_astrophysics/)
+  * [2. General properties of stars](https://borja-perez-diaz.github.io/me/teaching/aac/parti/2_general_properties_stars/)
   * 3. Zoology of astrophysical objects
   * 4. Emission, absorption and detection of the radiaton
 
