@@ -8,7 +8,7 @@ authors:
 - Brian Tapia-Contreras
 - Patricia B. Tissera
 date: '2025-12-08'
-publishDate: '2025-08-14T18:13:05.222047Z'
+publishDate: '2026-01-14T18:13:05.222047Z'
 publication_types:
 - article-journal
 publication: '*Astronomy & Astrophysics*'

@@ -10,7 +10,7 @@ authors:
 - Sandra Zamora
 - Ángeles I. Díaz
 date: '2025-06-01'
-publishDate: '2025-08-14T18:13:05.188402Z'
+publishDate: '2025-09-24T18:13:05.188402Z'
 publication_types:
 - article-journal
 publication: '*The Open Journal of Astrophysics*'

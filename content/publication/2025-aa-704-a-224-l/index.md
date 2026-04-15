@@ -15,7 +15,7 @@ authors:
 - S. Eskandarlou
 - A. Ederoclite
 date: '2025-12-16'
-publishDate: '2025-08-14T18:13:05.213345Z'
+publishDate: '2025-12-19T18:13:05.213345Z'
 publication_types:
 - article-journal
 publication: '*Astronomy & Astrophysics*'
