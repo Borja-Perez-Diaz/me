@@ -36,7 +36,7 @@ abstract: ' The derivation of sulphur chemical abundances in the gas-phase of st
         particularly affects the [SII] emission. Our results indicate no
         significant deviations from the solar S/O value in the range 8.0
         < 12+log(O/H) < 8.7, where the bulk of the MaNGA sample stays, ,
-        \{but also with possible enhancements of sulphur at the high
+        but also with possible enhancements of sulphur at the high
         metallicity regime. This may be linked to the depletion of
         oxygen in the gas-phase due to its incorporation onto dust
         grains, as it remains when other metallicity indicators

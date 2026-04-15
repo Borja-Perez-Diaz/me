@@ -27,20 +27,18 @@ abstract: ' Context. A large, faint nebula was unexpectedly discovered near M31
         nebula is extragalactic and vast or associated with the Milky
         Way filamentary structure. This will enable us to constrain its
         physical properties and assess its nature. Methods. We obtained
-        deep narrowband [O II]3727 and H{\ensuremath{\alpha}}+[NII]
+        deep narrowband [O II]3727 and Ha+[NII]
         observations with the JAST80 telescope at the Observatorio
-        Astrof{\'\i}sico de Javalambre, as well as high spectral
-        resolution spectroscopy (R \raisebox{-0.5ex}\textasciitilde
-        5000) at four locations within the region of interest using the
+        Astrofísico de Javalambre, as well as high spectral
+        resolution spectroscopy (R = 5000) at four locations within the region of interest using the
         MEGARA integral field unit at the Gran Telescopio Canarias.
         Results. We found extended [O II] emission along two near-
         parallel strands to the [O III], offset by six arcmin. The
         nebular spectra reveal up to six emission lines from [O
-        III]4959,5007, H{\ensuremath{\beta}}, [N II]6583, and [S
+        III]4959,5007, Hb, [N II]6583, and [S
         II]6716,6731. Their receding velocities are above
-        {\ensuremath{-}}40 km s$^{{\ensuremath{-}}1}$, far from the
-        systemic velocity of M31 ({\ensuremath{-}}300 km
-        s$^{{\ensuremath{-}}1}$ ). The fluxes and velocities are
+        -40 km/s, far from the
+        systemic velocity of M31 (-300 km/s). The fluxes and velocities are
         remarkably consistent for the same lines across different
         regions of the nebula. Conclusions. The nebular properties
         suggest a location within the Milky Way rather than being
