@@ -1,5 +1,5 @@
 ---
-title: Sulphur abundances in star-forming regions from optical emission lines: A new approach based on photoionization models consistent with the direct method
+title: 'Sulphur abundances in star-forming regions from optical emission lines: A new approach based on photoionization models consistent with the direct method'
 authors:
 - Enrique Pérez-Montero
 - admin
