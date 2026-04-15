@@ -58,8 +58,6 @@ abstract: Context. A large, faint nebula was unexpectedly discovered near M31
         properties of this object call for further observations to
         confirm its nature.
 tags:
-- 'galaxies: individual'
-- 'ISM: clouds'
 - Astrophysics of Galaxies
 links:
 - name: arXiv
