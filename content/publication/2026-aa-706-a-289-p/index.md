@@ -1,5 +1,5 @@
 ---
-title: Chemical enrichment in LINERs from MaNGA: II. Characterizing the shape of the radial metallicity gradients
+title: "Chemical enrichment in LINERs from MaNGA: II. Characterizing the shape of the radial metallicity gradients"
 authors:
 - admin
 - José M. Vílchez
