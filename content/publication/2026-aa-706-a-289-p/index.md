@@ -13,7 +13,7 @@ publication_types:
 - article-journal
 publication: '*Astronomy & Astrophysics*'
 doi: 10.1051/0004-6361/202555821
-abstract: Context. Chemical abundance radial gradients provide key information on
+abstract: ' Context. Chemical abundance radial gradients provide key information on
         how the processes that affect chemical enrichment of the gas-
         phase interstellar medium (ISM) act at different galaxy scales.
         In the past decades, though there has been an increase in the
@@ -44,7 +44,7 @@ abstract: Context. Chemical abundance radial gradients provide key information o
         shape of the 12+log(O/H) and log(N/O) radial profiles. We
         propose a model in which AGN feed(back), acting at different
         scales depending on the galaxy and its evolutionary stage, might
-        be responsible for these departures.
+        be responsible for these departures.'
 tags:
 - 'galaxies: abundances'
 - 'galaxies: active'

@@ -16,7 +16,7 @@ publication_types:
 - article-journal
 publication: '*The Open Journal of Astrophysics*'
 doi: 10.33232/001c.151253
-abstract: The derivation of sulphur chemical abundances in the gas-phase of star-
+abstract: ' The derivation of sulphur chemical abundances in the gas-phase of star-
         forming galaxies is explored in this work, using the emission
         lines produced in these regions in the optical part of the
         spectrum and by means of photoionization models. We adapted the
@@ -41,7 +41,7 @@ abstract: The derivation of sulphur chemical abundances in the gas-phase of star
         metallicity regime. This may be linked to the depletion of
         oxygen in the gas-phase due to its incorporation onto dust
         grains, as it remains when other metallicity indicators
-        independent of this depletion, as S/H itself, are used instead.
+        independent of this depletion, as S/H itself, are used instead.'
 tags:
 - Astrophysics of Galaxies
 - 'galaxies: abundances'

@@ -20,7 +20,7 @@ publication_types:
 - article-journal
 publication: '*Astronomy & Astrophysics*'
 doi: 10.1051/0004-6361/202453413
-abstract: Context. A large, faint nebula was unexpectedly discovered near M31
+abstract: ' Context. A large, faint nebula was unexpectedly discovered near M31
         using narrowband [O III] images. Its apparent size and the lack
         of a clear counterpart at other wavelengths make it unique and
         challenging to explain. Aims. We aim to determine whether the
@@ -56,9 +56,11 @@ abstract: Context. A large, faint nebula was unexpectedly discovered near M31
         interstellar gas filament with an additional source of
         ionization to explain the [O III] emission. However, the complex
         properties of this object call for further observations to
-        confirm its nature.
+        confirm its nature.'
 tags:
 - Astrophysics of Galaxies
+- 'ISM: clouds'
+- 'Galaxies: individual'
 links:
 - name: arXiv
   url: https://arxiv.org/abs/2412.08327
