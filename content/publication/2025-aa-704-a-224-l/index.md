@@ -1,5 +1,5 @@
 ---
-title: 'Andromeda's tenuous veil: A likely Milky Way nebula projected toward M31'
+title: "Andromeda's tenuous veil: A likely Milky Way nebula projected toward M31"
 authors:
 - A. Lumbreras-Calle
 - J. A. Fernández-Ontiveros
