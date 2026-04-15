@@ -183,7 +183,7 @@ work:
   company_url: ''
   company_logo: ''
   date_start: 2025-09-15
-  date_end: -
+  date_end: 2027-09-15
   
 - position: Researcher in formation
   company_name: Instituto de Astrofísica de Andalucía (IAA-CSIC)
