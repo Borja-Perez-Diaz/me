@@ -1,5 +1,5 @@
 ---
-title: 'Andromeda's tenuous veil: A likely Milky Way nebula projected toward M31'
+title: Andromeda's tenuous veil: A likely Milky Way nebula projected toward M31
 authors:
 - A. Lumbreras-Calle
 - J. A. Fernández-Ontiveros
@@ -68,7 +68,6 @@ links:
   url: https://ui.adsabs.harvard.edu/abs/2025A&A...704A.224L
 - name: journal
   url: https://www.aanda.org/articles/aa/full_html/2025/12/aa53413-24/aa53413-24.html
-url_dataset: ''
 image:
   caption: 'Contours of emission in the JAST80 observations on the nebula, for [O II] (filter J⁢0378) in cyan, and for H_alpha in red (filter J0660)'
   focal_point: ""

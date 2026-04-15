@@ -1,5 +1,5 @@
 ---
-title: 'Chemical enrichment in LINERs from MaNGA: II. Characterizing the shape of the radial metallicity gradients'
+title: Chemical enrichment in LINERs from MaNGA: II. Characterizing the shape of the radial metallicity gradients
 authors:
 - admin
 - José M. Vílchez
@@ -58,7 +58,6 @@ links:
   url: https://ui.adsabs.harvard.edu/abs/2026A&A...706A.289P
 - name: journal
   url: https://www.aanda.org/articles/aa/full_html/2026/02/aa55821-25/aa55821-25.html
-url_dataset: ''
 image:
   caption: 'Adapted version of the Bathtub model to account for the AGN feed(back).'
   focal_point: ""

@@ -1,6 +1,5 @@
 ---
-title: 'Sulphur abundances in star-forming regions from optical emission lines: A
-  new approach based on photoionization models consistent with the direct method'
+title: Sulphur abundances in star-forming regions from optical emission lines: A new approach based on photoionization models consistent with the direct method
 authors:
 - Enrique Pérez-Montero
 - admin
@@ -52,7 +51,6 @@ links:
   url: https://ui.adsabs.harvard.edu/abs/2025OJAp....851253P
 - name: journal
   url: https://astro.theoj.org/article/151253-sulphur-abundances-in-star-forming-regions-from-optical-emission-lines-a-new-approach-based-on-photoionization-models-consistent-with-the-direct-meth
-url_dataset: ''
 image:
   caption: 'Sulphur ionic abundance fractions accros a photoionized nebula'
   focal_point: ""
