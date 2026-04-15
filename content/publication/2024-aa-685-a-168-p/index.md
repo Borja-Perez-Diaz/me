@@ -54,7 +54,7 @@ image:
   preview_only: false
 
 # Summary. An optional shortened abstract.
-summary: Unveiling chemical enrichment through IR emission lines; the importance of estimation N and S abundances.
+# summary: Unveiling chemical enrichment through IR emission lines; the importance of estimation N and S abundances.
 
-featured: True
+# featured: True
 ---
